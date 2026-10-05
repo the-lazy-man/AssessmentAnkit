@@ -54,7 +54,7 @@ An Android application built with **Kotlin**, **Jetpack Compose (Material 3)**, 
 ## 📁 Project Structure
 
 ```
-com.rahul.assessmentankit/
+com.ankit.assessmentankit/
 ├── data/
 │   ├── local/
 │   │   ├── AppDatabase.java        # Room Database initialization

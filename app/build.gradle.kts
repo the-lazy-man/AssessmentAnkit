@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rahul.assessmentankit"
+    namespace = "com.ankit.assessmentankit"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.rahul.assessmentankit"
+        applicationId = "com.ankit.assessmentankit"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
